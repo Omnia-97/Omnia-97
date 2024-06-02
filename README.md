@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hello there! 👋
 
-<!--
-**Omnia-97/Omnia-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Omnia Nabil , a passionate Flutter Developer with a continuous drive for learning and growth. Currently, I am actively seeking new opportunities and challenges to further expand my skills and contribute to innovative projects.
 
-Here are some ideas to get you started:
+#### 🌟 Available for New Opportunities:
+- 🚀 I'm eager to join a dynamic team where I can utilize my expertise in Flutter development to create impactful mobile applications.
+- 💼 Open to freelance projects and collaborations on exciting ventures.
+- 📈 Ready to contribute my skills to projects that push boundaries and drive innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📫 How to Reach Me:
+- 📧 Email: [omnianabil1920@gmail.com]
+- 🔗 LinkedIn: [LinkedIn Profile Link](https://www.linkedin.com/in/omnia-nabil-j2510k24t)
+
+#### 🌐 Connect with Me:
+Feel free to reach out if you have any opportunities, projects, or just want to connect and discuss tech! I'm excited about the possibilities ahead and eager to explore new horizons.
+
+---
+Let's build something amazing together! 😊
