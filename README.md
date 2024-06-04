@@ -4,7 +4,7 @@ I'm Omnia Nabil , a passionate Flutter Developer with a continuous drive for lea
 
 ## My Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Omnia-97&show_icons=true&bg_color=282828&title_color=ffffff&text_color=ffffff&icon_color=f37b19)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Omnia-97&background=282828&ring=7f662a&fire=7f662a&currStreakNum=ffffff&sideNums==7f662&currStreakLabel=f37b19&sideLabels=ffffff&dates=ffffff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Omnia-97&background=282828&ring=7f662a&fire=7f662a&currStreakNum=ffffff&sideNums==ffffff&currStreakLabel=f37b19&sideLabels=ffffff&dates=ffffff)
 
 
 ### 🌟 Available for New Opportunities:
