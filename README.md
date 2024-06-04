@@ -2,6 +2,10 @@
 
 I'm Omnia Nabil , a passionate Flutter Developer with a continuous drive for learning and growth. Currently, I am actively seeking new opportunities and challenges to further expand my skills and contribute to innovative projects.
 
+## My Stats:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Omnia-97&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Omnia-97)
+
 ### 🌟 Available for New Opportunities:
 - 🚀 I'm eager to join a dynamic team where I can utilize my expertise in Flutter development to create impactful mobile applications.
 - 💼 Open to freelance projects and collaborations on exciting ventures.
