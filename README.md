@@ -1,14 +1,14 @@
-### Hello there! 👋
+## Hello there! 👋
 
 I'm Omnia Nabil , a passionate Flutter Developer with a continuous drive for learning and growth. Currently, I am actively seeking new opportunities and challenges to further expand my skills and contribute to innovative projects.
 
-#### 🌟 Available for New Opportunities:
+### 🌟 Available for New Opportunities:
 - 🚀 I'm eager to join a dynamic team where I can utilize my expertise in Flutter development to create impactful mobile applications.
 - 💼 Open to freelance projects and collaborations on exciting ventures.
 - 📈 Ready to contribute my skills to projects that push boundaries and drive innovation.
 
  
-#### 📫 How to Reach Me: 
+### 📫 How to Reach Me: 
 <div align="center">
     <a href="https://www.linkedin.com/in/omnia-nabil-j2510k24t" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
@@ -18,7 +18,7 @@ I'm Omnia Nabil , a passionate Flutter Developer with a continuous drive for lea
 
  <br>
    
-#### 🛠 Language and tools :
+### 🛠 Language and tools :
  <br>
 
 <div align="center">
@@ -26,7 +26,7 @@ I'm Omnia Nabil , a passionate Flutter Developer with a continuous drive for lea
     <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,xd,postman" /><br>
 </div> 
 
-#### 🌐 Connect with Me:
+### 🌐 Connect with Me:
 Feel free to reach out if you have any opportunities, projects, or just want to connect and discuss tech! I'm excited about the possibilities ahead and eager to explore new horizons.
 
 ---
