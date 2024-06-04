@@ -7,9 +7,24 @@ I'm Omnia Nabil , a passionate Flutter Developer with a continuous drive for lea
 - 💼 Open to freelance projects and collaborations on exciting ventures.
 - 📈 Ready to contribute my skills to projects that push boundaries and drive innovation.
 
-#### 📫 How to Reach Me:
-- 📧 Email: [omnianabil1920@gmail.com]
-- 🔗 LinkedIn: [LinkedIn Profile Link](https://www.linkedin.com/in/omnia-nabil-j2510k24t)
+ 
+#### 📫 How to Reach Me: 
+<div align="center">
+    <a href="https://www.linkedin.com/in/omnia-nabil-j2510k24t" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
+    <a href="mailto:omnianabil1920@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" style="height: 28px; width: 110px;"> </a>
+</div>
+
+ <br>
+   
+## 🛠 Language and tools :
+ <br>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,java,kotlin" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,xd,postman" /><br>
+</div> 
 
 #### 🌐 Connect with Me:
 Feel free to reach out if you have any opportunities, projects, or just want to connect and discuss tech! I'm excited about the possibilities ahead and eager to explore new horizons.
