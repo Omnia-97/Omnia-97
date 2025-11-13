@@ -35,7 +35,7 @@ I’m actively seeking new opportunities and challenges where I can grow, contri
 - 🚀 Excited to contribute to innovative mobile projects and make a meaningful impact.  
 - 💼 Open to freelance collaborations and dynamic team opportunities.  
 - 📈 Always eager to learn, grow, and bring fresh ideas to challenging projects. 
-
+<br>
  
 ### 📫 How to Reach Me: 
 <div align="center">
@@ -44,14 +44,14 @@ I’m actively seeking new opportunities and challenges where I can grow, contri
     <a href="mailto:omnianabil1920@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" style="height: 28px; width: 110px;"> </a>
 </div>
-
- <br>
+<br>
 
 ### 🛠 Languages & Tools
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,java,kotlin" />
     <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,xd,postman" /><br>
 </div> 
+<br>
 
 ### 🌐 Let’s Connect
 I’m always excited to connect, collaborate, and explore new ideas in tech. Whether it’s a project, opportunity, or just a friendly chat about development, I’m open to it all.  
