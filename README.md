@@ -46,20 +46,6 @@ I’m actively seeking new opportunities and challenges where I can grow, contri
 </div>
 
  <br>
-   
-### 🛠 Language and tools :
- <br>
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,java,kotlin" />
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,xd,postman" /><br>
-</div> 
-
-### 🌐 Connect with Me:
-Feel free to reach out if you have any opportunities, projects, or just want to connect and discuss tech! I'm excited about the possibilities ahead and eager to explore new horizons.
-
----
-Let's build something amazing together! 😊
 
 ### 🛠 Languages & Tools
 <div align="center">
