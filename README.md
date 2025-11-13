@@ -1,18 +1,19 @@
 ## Hello there! 👋
 
-I'm Omnia Nabil , a passionate Flutter Developer with a continuous drive for learning and growth. Currently , I am actively seeking new opportunities and challenges to further expand my skills and contribute to innovative projects.
+I'm **Omnia Nabil**, a passionate Flutter and Android Developer driven by curiosity and continuous learning. I love building high-quality, user-friendly mobile applications and exploring innovative solutions to real-world problems.  
+
+I’m actively seeking new opportunities and challenges where I can grow, contribute my skills, and collaborate on impactful mobile projects.
 
 ## 📊 My Stats:
 
 <p align="center">
   <a href="https://github.com/Omnia-97">
     <img 
-      title="🔥 Get streak stats for your profile" 
+      title="🔥 GitHub streak stats" 
       alt="Omnia Nabil streak" 
       src="https://github-readme-streak-stats.herokuapp.com?user=Omnia-97&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000" />
   </a>
 </p>
-
 
 <a href="https://github.com/Omnia-97/github-readme-stats">
     <img alt="Omnia Nabil Github Stats" 
