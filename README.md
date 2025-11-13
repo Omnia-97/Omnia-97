@@ -60,3 +60,15 @@ Feel free to reach out if you have any opportunities, projects, or just want to 
 
 ---
 Let's build something amazing together! 😊
+
+### 🛠 Languages & Tools
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,java,kotlin" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,xd,postman" /><br>
+</div> 
+
+### 🌐 Let’s Connect
+I’m always excited to connect, collaborate, and explore new ideas in tech. Whether it’s a project, opportunity, or just a friendly chat about development, I’m open to it all.  
+
+---
+✨ **Let’s build something amazing together!** 😊
