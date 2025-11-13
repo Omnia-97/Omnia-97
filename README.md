@@ -31,10 +31,10 @@ I’m actively seeking new opportunities and challenges where I can grow, contri
 </div>
 <br>
 
-### 🌟 Available for New Opportunities:
-- 🚀 I'm eager to join a dynamic team where I can utilize my expertise in Flutter development to create impactful mobile applications.
-- 💼 Open to freelance projects and collaborations on exciting ventures.
-- 📈 Ready to contribute my skills to projects that push boundaries and drive innovation.
+### 🌟 Looking for New Opportunities
+- 🚀 Excited to contribute to innovative mobile projects and make a meaningful impact.  
+- 💼 Open to freelance collaborations and dynamic team opportunities.  
+- 📈 Always eager to learn, grow, and bring fresh ideas to challenging projects. 
 
  
 ### 📫 How to Reach Me: 
