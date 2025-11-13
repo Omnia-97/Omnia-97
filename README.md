@@ -2,7 +2,7 @@
 
 I'm **Omnia Nabil**, a passionate Flutter and Android Developer driven by curiosity and continuous learning. I love building high-quality, user-friendly mobile applications and exploring innovative solutions to real-world problems.  
 
-I’m actively seeking new opportunities and challenges where I can grow, contribute my skills, and collaborate on impactful mobile projects.
+I’m eager to take on new challenges where I can grow, make meaningful contributions, and help create exceptional mobile experiences.  
 
 ## 📊 My Stats:
 
