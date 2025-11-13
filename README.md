@@ -4,7 +4,14 @@ I'm Omnia Nabil , a passionate Flutter Developer with a continuous drive for lea
 
 ## 📊 My Stats:
 
-[![Omnia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Omnia-97&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="https://github.com/Omnia-97">
+    <img 
+      title="🔥 Get streak stats for your profile" 
+      alt="Omnia Nabil streak" 
+      src="https://github-readme-streak-stats.herokuapp.com?user=Omnia-97&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000" />
+  </a>
+</p>
 
 
 <a href="https://github.com/Omnia-97/github-readme-stats">
