@@ -47,6 +47,7 @@ I’m actively seeking new opportunities and challenges where I can grow, contri
 <br>
 
 ### 🛠 Languages & Tools
+<br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,java,kotlin" />
     <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,xd,postman" /><br>
