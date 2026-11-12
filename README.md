@@ -33,14 +33,15 @@ I've contributed to production mobile applications, including **3 Android apps p
 ### Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,dart,androidstudio,gradle,firebase,git,github,githubactions,postman,figma" alt="Development tools and technologies" />
+<img src="https://skillicons.dev/icons?i=kotlin,java,flutter,dart,androidstudio,gradle,firebase,git,github,bitbucket,githubactions,postman,figma" alt="Development tools and technologies" />
 </div>
 
 - **Android:** Kotlin, Java, Jetpack Compose, Android SDK, XML Views, Coroutines, Flow, Hilt
 - **Flutter:** Dart, Flutter, BLoC, Cubit, Provider
 - **Data & Networking:** Retrofit, OkHttp, Room, DataStore, Firebase, REST APIs
 - **Architecture:** Clean Architecture, MVVM, MVI, Modular Architecture
-- **Tools & DevOps:** Git, GitHub, Gradle, GitHub Actions, Fastlane, CI/CD
+- **Tools & DevOps:** Git, GitHub, Bitbucket, Jira, Agile , Gradle, GitHub Actions, Fastlane, CI/CD
+
 
 ### Experience Highlights
 
@@ -50,6 +51,7 @@ I've contributed to production mobile applications, including **3 Android apps p
 - Integrated **RESTful APIs, Firebase services, and local databases**.
 - Contributed to **multilingual mobile experiences**, application improvements, and production releases.
 - Worked with modern development workflows to improve code quality, maintainability, and delivery.
+- Worked in an Agile development environment, using Jira for task tracking, bug reporting, and team collaboration.
 
 ### Projects & Portfolio
 
