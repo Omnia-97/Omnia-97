@@ -3,9 +3,9 @@
 
 # Hi, I'm Omnia Nabil 👋
 
-### Android Developer | Kotlin • Jetpack Compose | Flutter
+### Mobile Developer | Android & Flutter | Kotlin • Jetpack Compose • Dart
 
-Building reliable, user-focused mobile experiences with clean architecture and thoughtful design.
+Building high-quality, user-friendly mobile applications with clean architecture, modern technologies, and thoughtful design.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=vercel&logoColor=white)](https://omnia-android-portfolio-hxkf-wheat.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omnia-nabil-j2510k24t)
@@ -17,14 +17,18 @@ Building reliable, user-focused mobile experiences with clean architecture and t
 
 ### About Me
 
-I'm a **mobile developer with 2+ years of experience**, focused on **native Android development** with **Kotlin and Jetpack Compose**. I've worked on production mobile applications and helped ship **3 Android apps to Google Play**.
+I'm a **Mobile Developer with 2+ years of experience** building and contributing to **Android and Flutter applications**.
 
-- 💼 **Currently:** Android Developer at **Generation C**.
-- 📱 **Specializing in:** Scalable Android features, modern UI, and maintainable architecture.
-- 🔄 **Also experienced with:** Flutter/Dart and native Android development using Java/XML.
-- ⚙️ **Delivery experience:** Fastlane, GitHub Actions, and CI/CD workflows.
-- 🌱 **Currently learning:** Offline-first architecture, local caching, and resilient data synchronization.
-- 🤝 **Open to:** Android/mobile development opportunities and meaningful collaborations.
+I'm passionate about creating scalable, intuitive, and high-performance mobile experiences using **Kotlin, Jetpack Compose, Flutter, and Dart**. I enjoy solving real-world problems, exploring modern development practices, and delivering clean, maintainable solutions.
+
+I've contributed to production mobile applications, including **3 Android apps published on Google Play**.
+
+- 💼 **Currently:** Mobile Developer (Android) at **Generation C**.
+- 📱 **Expertise:** Native Android development and cross-platform Flutter development.
+- 🏗️ **Development Approach:** Clean Architecture, reusable components, maintainable code, and modern mobile development practices.
+- ⚙️ **Delivery Experience:** Fastlane, GitHub Actions, and CI/CD workflows.
+- 🚀 **Passionate About:** Building impactful mobile products, improving user experiences, and solving complex technical challenges.
+- 🤝 **Open to:** Android, Flutter, and Mobile Developer opportunities, as well as freelance collaborations.
 
 ### Tech Stack
 
@@ -33,32 +37,40 @@ I'm a **mobile developer with 2+ years of experience**, focused on **native Andr
 </div>
 
 - **Android:** Kotlin, Java, Jetpack Compose, Android SDK, XML Views, Coroutines, Flow, Hilt
-- **Data & Networking:** Retrofit, OkHttp, Room, DataStore, Firebase, REST APIs
 - **Flutter:** Dart, Flutter, BLoC, Cubit, Provider
-- **Architecture & Delivery:** Clean Architecture, MVVM, MVI, Gradle, Git, GitHub Actions, Fastlane, CI/CD
+- **Data & Networking:** Retrofit, OkHttp, Room, DataStore, Firebase, REST APIs
+- **Architecture:** Clean Architecture, MVVM, MVI, Modular Architecture
+- **Tools & DevOps:** Git, GitHub, Gradle, GitHub Actions, Fastlane, CI/CD
 
 ### Experience Highlights
 
-- Developed customer-facing Android features involving **bookings, payments, maps, and location-based flows**.
-- Built **reusable Jetpack Compose UI components** and worked with feature-based, modular architecture.
-- Contributed to **multilingual mobile experiences**, API integrations, and quality improvements.
+- Developed and contributed to **production-ready Android and Flutter applications**.
+- Implemented mobile features involving **bookings, payments, maps, and location-based services**.
+- Built **reusable UI components** and worked with feature-based, modular architecture.
+- Integrated **RESTful APIs, Firebase services, and local databases**.
+- Contributed to **multilingual mobile experiences**, application improvements, and production releases.
+- Worked with modern development workflows to improve code quality, maintainability, and delivery.
 
 ### Projects & Portfolio
 
-Explore my selected work, skills, and mobile development experience on my **[portfolio website](https://omnia-android-portfolio-hxkf-wheat.vercel.app/)**.
+Explore my selected projects, technical skills, and mobile development experience on my **[Portfolio Website](https://omnia-android-portfolio-hxkf-wheat.vercel.app/)**.
 
 ### GitHub Activity
 
 <div align="center">
+
   <img src="https://github-stats-extended.vercel.app/api?username=Omnia-97&show_icons=true&theme=tokyonight&hide_border=true" alt="Omnia's GitHub statistics" />
+
   <br />
+
   <img src="https://streak-stats.demolab.com?user=Omnia-97&theme=tokyonight&hide_border=true" alt="Omnia's GitHub contribution streak" />
+
 </div>
 
 ---
 
 <div align="center">
 
-**Let's connect and build something meaningful.**
+**Let's connect, collaborate, and build something meaningful! 🚀**
 
 </div>
