@@ -1,61 +1,64 @@
-## Hello there! 👋
 
-I'm **Omnia Nabil**, a passionate Flutter and Android Developer driven by curiosity and continuous learning. I love building high-quality, user-friendly mobile applications and exploring innovative solutions to real-world problems.  
-
-I’m eager to take on new challenges where I can grow, make meaningful contributions, and help create exceptional mobile experiences.  
-
-## 📊 My Stats:
-
-<p align="center">
-  <a href="https://github.com/Omnia-97">
-    <img 
-      title="🔥 GitHub streak stats" 
-      alt="Omnia Nabil streak" 
-      src="https://github-readme-streak-stats.herokuapp.com?user=Omnia-97&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000" />
-  </a>
-</p>
-
-<a href="https://github.com/Omnia-97/github-readme-stats">
-    <img alt="Omnia Nabil Github Stats" 
-         src="https://github-readme-stats.vercel.app/api?username=Omnia-97&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-
-<a href="https://github.com/Omnia-97/github-readme-stats">
-    <img alt="Omnia Nabil Top Languages" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omnia-97&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-
-<br>
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+# Hi, I'm Omnia Nabil 👋
+
+### Android Developer | Kotlin • Jetpack Compose | Flutter
+
+Building reliable, user-focused mobile experiences with clean architecture and thoughtful design.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-171717?style=for-the-badge&logo=vercel&logoColor=white)](https://omnia-android-portfolio-hxkf-wheat.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omnia-nabil-j2510k24t)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omnianabil1920@gmail.com)
+
 </div>
-<br>
-
-### 🌟 Looking for New Opportunities
-- 🚀 Excited to contribute to innovative mobile projects and make a meaningful impact.  
-- 💼 Open to freelance collaborations and dynamic team opportunities.  
-- 📈 Always eager to learn, grow, and bring fresh ideas to challenging projects. 
-<br>
- 
-### 📫 How to Reach Me: 
-<div align="center">
-    <a href="https://www.linkedin.com/in/omnia-nabil-j2510k24t" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" > </a>
-    <a href="mailto:omnianabil1920@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" style="height: 28px; width: 110px;"> </a>
-</div>
-<br>
-
-### 🛠 Languages & Tools
-<br>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,java,kotlin" />
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,xd,postman" /><br>
-</div> 
-<br>
-
-### 🌐 Let’s Connect
-I’m always excited to connect, collaborate, and explore new ideas in tech. Whether it’s a project, opportunity, or just a friendly chat about development, I’m open to it all.  
 
 ---
-✨ **Let’s build something amazing together!** 😊
+
+### About Me
+
+I'm a **mobile developer with 2+ years of experience**, focused on **native Android development** with **Kotlin and Jetpack Compose**. I've worked on production mobile applications and helped ship **3 Android apps to Google Play**.
+
+- 💼 **Currently:** Android Developer at **Generation C**.
+- 📱 **Specializing in:** Scalable Android features, modern UI, and maintainable architecture.
+- 🔄 **Also experienced with:** Flutter/Dart and native Android development using Java/XML.
+- ⚙️ **Delivery experience:** Fastlane, GitHub Actions, and CI/CD workflows.
+- 🌱 **Currently learning:** Offline-first architecture, local caching, and resilient data synchronization.
+- 🤝 **Open to:** Android/mobile development opportunities and meaningful collaborations.
+
+### Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,flutter,dart,androidstudio,gradle,firebase,git,github,githubactions,postman,figma" alt="Development tools and technologies" />
+</div>
+
+- **Android:** Kotlin, Java, Jetpack Compose, Android SDK, XML Views, Coroutines, Flow, Hilt
+- **Data & Networking:** Retrofit, OkHttp, Room, DataStore, Firebase, REST APIs
+- **Flutter:** Dart, Flutter, BLoC, Cubit, Provider
+- **Architecture & Delivery:** Clean Architecture, MVVM, MVI, Gradle, Git, GitHub Actions, Fastlane, CI/CD
+
+### Experience Highlights
+
+- Developed customer-facing Android features involving **bookings, payments, maps, and location-based flows**.
+- Built **reusable Jetpack Compose UI components** and worked with feature-based, modular architecture.
+- Contributed to **multilingual mobile experiences**, API integrations, and quality improvements.
+
+### Projects & Portfolio
+
+Explore my selected work, skills, and mobile development experience on my **[portfolio website](https://omnia-android-portfolio-hxkf-wheat.vercel.app/)**.
+
+### GitHub Activity
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Omnia-97&show_icons=true&theme=tokyonight&hide_border=true" alt="Omnia's GitHub statistics" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=Omnia-97&theme=tokyonight&hide_border=true" alt="Omnia's GitHub contribution streak" />
+</div>
+
+---
+
+<div align="center">
+
+**Let's connect and build something meaningful.**
+
+</div>
