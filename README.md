@@ -23,7 +23,7 @@ I'm passionate about creating scalable, intuitive, and high-performance mobile e
 
 I've contributed to production mobile applications, including **3 Android apps published on Google Play**.
 
-- 💼 **Currently:** Mobile Developer (Android) at **Generation C**.
+- 💼 **Currently:** Android Developer at **Generation C**.
 - 📱 **Expertise:** Native Android development and cross-platform Flutter development.
 - 🏗️ **Development Approach:** Clean Architecture, reusable components, maintainable code, and modern mobile development practices.
 - ⚙️ **Delivery Experience:** Fastlane, GitHub Actions, and CI/CD workflows.
